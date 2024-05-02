@@ -1,0 +1,14 @@
+.click {
+    border: 1px solid black;
+    font-size: 32px;
+}
+
+.clickone {
+    color: white;
+    background-color: black;
+    font-weight: bold;
+}
+
+.clicktwo {
+    background-color: yellow;
+}
